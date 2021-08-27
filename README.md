@@ -9,7 +9,7 @@ In the final part of MP2, you will participate in a search competition where you
 **The evaluation results will be displayed on the leaderboard on LiveDataLab. Only your latest submission results will be displayed here.
 Also, the grader will use the default config.toml and stopwords.txt files provided here. So, changing these files will not make any impact on the scores. Please modify search_eval.py only to potentially notice any changes in the scores.**
 
-## Due: Oct 18, 2020 at 11:59 pm CDT
+## Due: Oct 3, 2021 at 11:59 pm CDT
 
 **NOTE:** If you've completed Part2, you should be familiar with the basics: Setup, Indexing and Searching the Data. We've included these sections in this README again for convenience. So, feel free to skip directly to the Competition Tasks section!
 
